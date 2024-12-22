@@ -5,7 +5,7 @@
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/DodoDorian"
-  width="250"
-  height="300"
+  width="700"
+  height="250"
 />
 </a>
