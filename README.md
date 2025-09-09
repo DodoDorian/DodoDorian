@@ -83,6 +83,8 @@ There are several different point of interests in my life so I list them accordi
 
 These are my gitanimals. Not a lot - still they are fun.
 
+## Personal
+
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/DodoDorian"
@@ -90,3 +92,14 @@ These are my gitanimals. Not a lot - still they are fun.
   height="250"
 />
 </a>
+
+## My guild
+
+<a href="https://www.gitanimals.org/">
+      <img
+        src="https://render.gitanimals.org/guilds/753304712716847840/draw"
+        width="600"
+        height="300"
+        alt="gitanimals"
+      />
+    </a>
