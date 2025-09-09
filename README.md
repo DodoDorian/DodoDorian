@@ -88,18 +88,18 @@ These are my gitanimals. Not a lot - still they are fun.
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/DodoDorian"
-  width="700"
-  height="250"
+  width="600"
+  height="300"
 />
 </a>
 
 ## My guild
 
 <a href="https://www.gitanimals.org/">
-      <img
-        src="https://render.gitanimals.org/guilds/753304712716847840/draw"
-        width="600"
-        height="300"
-        alt="gitanimals"
-      />
-    </a>
+<img
+  src="https://render.gitanimals.org/guilds/753304712716847840/draw"
+  width="600"
+  height="300"
+  alt="gitanimals"
+/>
+</a>
