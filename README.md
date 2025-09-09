@@ -50,7 +50,7 @@ This category is helping you to understand what I can and cannot do as of now. T
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)
 
 ## 👨‍💻 Interests
 
