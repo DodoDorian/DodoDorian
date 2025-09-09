@@ -13,7 +13,7 @@ This category is helping you to understand what I can and cannot do as of now. T
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 
-### 🖥️ Programming languages:
+### 🖥️ Programming languages
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -32,7 +32,7 @@ This category is helping you to understand what I can and cannot do as of now. T
 ![OpenSSH](https://img.shields.io/badge/OpenSSH-000000?style=for-the-badge&logo=openssh&logoColor=white)
 ![PuTTY](https://img.shields.io/badge/PuTTY-000000?style=for-the-badge&logo=putty&logoColor=white)
 
-### 🛠️ IDEs I have used
+### 🛠️ IDEs
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
