@@ -6,23 +6,19 @@ However, I'm a dreamer and I believe that we all are possible to achieve goals t
 
 ## 🧠 Competences
 
-This category is helping you to understand what I can and cannot do as of now. The skills are listed in the order of how comfortable I feel in using them.
+This category is helping you to understand what I am learning, since I am always able to expand my knowledge regarding software. The skills are listed in the order of how comfortable I feel in using them.
 
 ### 💻 Operating systems
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### 🖥️ Programming languages
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Batch](https://img.shields.io/badge/Batch-008080?style=for-the-badge&logo=windows&logoColor=white)
 
 ### ⚙️ Dev tools
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-00ACEE?style=for-the-badge&logo=chatgpt&logoColor=white)
@@ -38,6 +34,7 @@ This category is helping you to understand what I can and cannot do as of now. T
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ### 🎨 Other software
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white)
 ![Gaea](https://img.shields.io/badge/Gaea-FF6600?style=for-the-badge)
 ![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white)
